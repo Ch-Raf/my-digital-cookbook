@@ -1,5 +1,3 @@
- HEAD
-# my-digital-cookbook
+## Welcome to my cooking journey!
 
-My Cook book
- 54652fd (Initial commit: add README and carbonara reciple)
+"# My Digital Cookbook"
